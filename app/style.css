@@ -1,0 +1,26 @@
+body{
+	overflow: hidden;
+}
+.card{
+	position: absolute;
+	transform: translate(-95%,50%);
+	box-shadow: 0px 0px 9px black;
+}
+.card-title{
+	color: white;
+	text-align: center;
+}
+.row{
+	justify-content: center;
+}
+.card-header{
+	position: relative;
+	top: -40px;
+}
+.background-img{
+	position: absolute;
+	top: -120px;
+	width: 100%;
+	height: auto;
+	opacity: 0.7;
+}
